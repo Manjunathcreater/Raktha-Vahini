@@ -1,0 +1,35 @@
+# Rakta-Vahini Requirements
+
+# Frontend
+HTML5
+CSS3
+JavaScript (ES6)
+
+# Fonts
+Google Fonts - Poppins
+
+# Browser Support
+Chrome
+Edge
+Firefox
+Opera
+
+# Optional Tools
+VS Code
+Live Server Extension
+
+# Optional Backend (Future Upgrade)
+Firebase Authentication
+Firebase Firestore
+Firebase Hosting
+
+# APIs (Optional)
+Google Maps API
+Geolocation API
+
+# Recommended Platform
+Android WebView
+Progressive Web App (PWA)
+
+# No External Frameworks Required
+# Runs directly in browser using a single HTML file
